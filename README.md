@@ -78,7 +78,7 @@ The API will have the ability to do following things:
 	- /game/id - GET
 	- /game/id - PATCH
 	- /game/id - DELETE
-	- /games/filter/<filterName> - POST
+	- /games/filter/filterName - POST
 	- /logout - POST/GET
 
 * #### Filter Names List
